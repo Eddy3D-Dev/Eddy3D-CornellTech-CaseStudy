@@ -92,6 +92,7 @@ output {
     bottom: 0;
     right: 0;
     left: 0;
+    object-fit: scale-down;
     position: absolute;
     overflow: hidden;
     background-image: url(../img/thorntontomasetti.jpg);
