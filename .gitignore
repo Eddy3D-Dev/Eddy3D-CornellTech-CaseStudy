@@ -4,3 +4,5 @@
 .idea/encodings.xml
 *.xml
 index.html___jb_old___
+*.bak
+publish.bat
