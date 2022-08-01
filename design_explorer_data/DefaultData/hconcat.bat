@@ -5,3 +5,4 @@ echo "###############"
 echo.
 
 python hconcat.py
+PAUSE

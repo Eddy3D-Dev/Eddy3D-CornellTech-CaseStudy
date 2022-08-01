@@ -80,8 +80,12 @@ def stack_images(img_list, how, fill_color):
 files = glob.glob(str(img_folder) + "\*ScreenParallel.png")
 
 for i, f in enumerate(files):
-    print(i)
 
-    image_name_left = files[i]
-    image_name_right = image_name_left.replace("ScreenParallel", "ScreenTop")
-    cv.imwrite(str(i) +".png",stack_images([cv.imread(image_name_left),cv.imread(image_name_right)], 'hor', 'white'))
+    image_path_left = files[i]
+    image_path_right = image_path_left.replace("ScreenParallel", "ScreenTop")
+    image_name_export = image_path_left.split('\\')[-1].split('.')[0].split('ScreenParallel')[0] +".png"
+    image_name_right =  image_path_right.split('\\')[-1]
+    image_name_left =  image_path_left.split('\\')[-1]
+
+    print("Exporting image {0} with name {1} and {2}".format(image_name_export, image_name_left, image_name_right))
+    cv.imwrite(image_name_export,stack_images([cv.imread(image_path_left),cv.imread(image_path_right)], 'hor', 'white'))
