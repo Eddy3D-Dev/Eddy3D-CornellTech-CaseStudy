@@ -1,0 +1,2 @@
+in:ID,in:Type,in:Dep,in:PWT,in:FAR,in:Len,in:RS,in:SS,out:GFA,out:LotCov,out:PC_1,out:PC_2,out:PC_3,out:PC_4,out:PC_5,img
+132,0,40,50,10,40,0,5,91342,0.403,0,4.5,22,27.2,46.3,https://www.eddy3d.com/cornelltech-case-study/132.bmp
