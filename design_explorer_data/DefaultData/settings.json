@@ -1,1 +1,38 @@
-{"studyInfo":{"name":"Cornell Tech Expansion","date":""},"dimScales":{},"dimTicks":{},"dimMark":{"PC_5":{"value":"31","prefix":"SOM"},"PC_4":{"value":"33.6","prefix":""},"PC_3":{"value":"27","prefix":""},"PC_2":{"value":"8.3","prefix":""},"PC_1":{"value":"0.1","prefix":""},"LotCov":{"value":"0.526","prefix":""},"GFA":{"value":"76551","prefix":""}}}
+{
+  "studyInfo": {
+    "name": "Cornell Tech Expansion",
+    "date": ""
+  },
+  "dimScales": {},
+  "dimTicks": {},
+  "dimMark": {
+    "PC_5 [%]": {
+      "value": "31",
+      "prefix": "SOM"
+    },
+    "PC_4 [%]": {
+      "value": "33.6",
+      "prefix": ""
+    },
+    "PC_3 [%]": {
+      "value": "27",
+      "prefix": ""
+    },
+    "PC_2 [%]": {
+      "value": "8.3",
+      "prefix": ""
+    },
+    "PC_1 [%]": {
+      "value": "0.1",
+      "prefix": ""
+    },
+    "LotCov [-]": {
+      "value": "0.526",
+      "prefix": ""
+    },
+    "GFA [m2]": {
+      "value": "76551",
+      "prefix": ""
+    }
+  }
+}
