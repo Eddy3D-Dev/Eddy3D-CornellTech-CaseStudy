@@ -1,4 +1,4 @@
-in:ID [-],in:Type [-],in:Dep [m],in:PWT [%],in:FAR [-],in:Len [m],in:RS [m],in:SS [m],out:GFA [m2],out:LotCov [-],out:Lawson2001_A [%],out:Lawson2001_B [%],out:Lawson2001_C [%],out:Lawson2001_D [%],out:Lawson2001_E [%],out:Pareto [-],img
+in:ID [-],in:Type [-],in:Dep [m],in:PWT [%],in:FAR [-],in:Len [m],in:RS [m],in:SS [m],out:GFA [m2],out:LotCov [-],out:Lawson2001 A [%],out:Lawson2001 B [%],out:Lawson2001 C [%],out:Lawson2001 D [%],out:Lawson2001 E [%],out:Pareto [-],img
 0,0,20,30,10,40,0,0,90275,0.241,0.0,8.6,35.7,31.9,23.7,0,https://kastnerp.github.io/Eddy3D-CornellTech-CaseStudy/design_explorer_data/DefaultData/0ScreenParallel.webp
 1,1,20,30,10,40,0,0,91367,0.274,0.0,16.0,42.6,19.5,21.8,0,https://kastnerp.github.io/Eddy3D-CornellTech-CaseStudy/design_explorer_data/DefaultData/1ScreenParallel.webp
 2,2,20,30,10,40,0,0,91760,0.333,0.7,18.1,25.6,19.8,35.7,1,https://kastnerp.github.io/Eddy3D-CornellTech-CaseStudy/design_explorer_data/DefaultData/2ScreenParallel.webp

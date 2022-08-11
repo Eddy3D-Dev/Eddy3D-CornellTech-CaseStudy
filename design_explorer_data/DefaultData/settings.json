@@ -6,23 +6,23 @@
   "dimScales": { "LotCov [-]": [0.12, 0.381] },
   "dimTicks": {},
   "dimMark": {
-    "PC_5 [%]": {
+    "Lawson2001 E [%]": {
       "value": "31",
       "prefix": "SOM Proposal"
     },
-    "PC_4 [%]": {
+    "Lawson2001 D [%]": {
       "value": "33.6",
       "prefix": ""
     },
-    "PC_3 [%]": {
+    "Lawson2001 C [%]": {
       "value": "27",
       "prefix": ""
     },
-    "PC_2 [%]": {
+    "Lawson2001 B [%]": {
       "value": "8.3",
       "prefix": ""
     },
-    "PC_1 [%]": {
+    "Lawson2001 A [%]": {
       "value": "0.1",
       "prefix": ""
     },
