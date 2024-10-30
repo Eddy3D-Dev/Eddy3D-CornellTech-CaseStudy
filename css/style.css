@@ -95,7 +95,7 @@ output {
     object-fit: scale-down;
     position: absolute;
     overflow: hidden;
-    background-image: url(../img/Image-not-found.png);
+    /* background-image: url(../img/Image-not-found.png); */
     background-size: contain;
 }
 
@@ -108,7 +108,7 @@ output {
     margin-left: auto;
     margin-right: auto;
     min-width: 300px;
-    background-image: url(../img/Image-not-found.png);
+    /* background-image: url(../img/Image-not-found.png); */
     background-size: contain;
 }
 div#thumbnails-btm_container.onRight, 
